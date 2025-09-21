@@ -32,7 +32,7 @@ def main():
                 'synth_ice40',
                 'synth_microchip',
                 'synth_quicklogic',
-                'synth_xilinx'],
+                'synth_xilinx']
 
     all_flows = ['syn',
                  'rtlgds',
